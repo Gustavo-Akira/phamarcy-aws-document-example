@@ -35,9 +35,9 @@ A implementação de ferramentas na empresa *Abstergo Industries espera um aumen
 #### Elastic Beanstalk
 https://aws.amazon.com/pt/elasticbeanstalk/?gclid=Cj0KCQjwh7K1BhCZARIsAKOrVqF8k0NrentIS0SkfbzzoUmxIhzK3dtaHPChxENcbvoV9tILs0ar_ZQaAq3fEALw_wcB&trk=e9c37b8b-37f2-4eb2-b96a-039537bda446&sc_channel=ps&ef_id=Cj0KCQjwh7K1BhCZARIsAKOrVqF8k0NrentIS0SkfbzzoUmxIhzK3dtaHPChxENcbvoV9tILs0ar_ZQaAq3fEALw_wcB:G:s&s_kwcid=AL!4422!3!651510165333!e!!g!!elastic%20beanstalk%20pricing!19836375517!149589157600
 #### RDS
-
+https://aws.amazon.com/pt/free/database/?gclid=Cj0KCQjwh7K1BhCZARIsAKOrVqFsS-1AyZCOKNzDVv0Sv1UIU3O5WBHx7KJKguQGZy5vlLxAGDZL4HYaAvnmEALw_wcB&trk=eca03f9c-ce0f-4704-b08e-e6fe66f1f54d&sc_channel=ps&ef_id=Cj0KCQjwh7K1BhCZARIsAKOrVqFsS-1AyZCOKNzDVv0Sv1UIU3O5WBHx7KJKguQGZy5vlLxAGDZL4HYaAvnmEALw_wcB:G:s&s_kwcid=AL!4422!3!548640877181!e!!g!!aws%20rds!12024809973!118832469809
 #### VPC
-
+https://aws.amazon.com/pt/vpc/
 
 ### Tabela comparativa
 ### Comparação de Gastos: Infraestrutura Física vs. Infraestrutura na AWS
